@@ -1,0 +1,62 @@
+Q: What is the college name?
+A: PT Lee Chengalvaraya Naicker College of Engineering and Technology.
+
+Q: Where is the college located?
+A: Oovery, Veliyur post, Kancheepuram.
+
+Q: What departments are available?
+A: CSE, ECE, MECH, IT, EEE,AIDS.
+
+Q: What are the fees for CSE?
+A: 75,000 per year.
+
+Q: What are the fees for ECE?
+A: 50,000 per year.
+
+Q: What are the fees for MECH?
+A: 35,000 per year.
+
+Q: What are the fees for IT?
+A: 75,000 per year.
+
+Q: What are the fees for EEE?
+A: 50,000 per year.
+
+Q: What are the fees for AIDS?
+A: 1,00,000 per year.
+
+Q: What companies come for placement?
+A: Foxconn, TVS , Flex, HP Hewlett Packard, ZOHO, HYUNDAI, RENAULT, ABI-SHOWATECH, TECH Mahindra, Infosys, Hexaware, Cognizant, TCS-TATA Consultancy services, TATA, HONDA, BAJAJ .
+
+Q: What extracurricular activities are available?
+A: NSS.
+
+Q: What sports facilities are available?
+A: All indoor and outdoor games are available. Sports ground is spread over 4 acres.
+
+Q: Is hostel available?
+A: Yes, hostel is available for both boys and girls.
+
+Q: What is the boys hostel capacity?
+A: 300 students.
+
+Q: What is the girls hostel capacity?
+A: 150 students.
+
+Q: What are the library facilities?
+A: Seating capacity is 150, number of books is 14318, and 38 journals are subscribed.
+
+Q: What are the other advantages available??
+A:Other advantages include the organization of skill development programs to enhance participants’ abilities.
+
+Q: The college website is?
+A: https://ptleecncet.com/index.php
+
+Q: About your college?
+A: PT Lee Chengalvaraya Naicker College of Engineering & Technology is the outcome of our great Philanthropist, late Shri. PT Lee Chengalvaraya Naicker (1829 - 1874) with a sole aim of providing Technical Education to the poor and downtrodden people beside other social and religious activities.
+
+Q: How to pay the fees?
+A: on online portal - https://ptleecncet.com/Online_Payment_System.php
+
+Q: What type of events are conducted?
+A: Farewell, Cultural, Pongal Celebration and some events are conducted on specific dates based on the occasion.
