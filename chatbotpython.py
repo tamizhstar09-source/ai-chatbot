@@ -1,9 +1,18 @@
 import streamlit as st
 import google.generativeai as genai
 import os
+import random
 
 # ── CONFIG ─────────────────────────────────────────────
-genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
+API_KEYS = [
+    st.secrets["KEY1"],
+    st.secrets["KEY2"],
+    st.secrets["KEY3"],
+    st.secrets["KEY4"],
+    st.secrets["KEY5"],
+    st.secrets["KEY6"]
+]
+genai.configure(api_key=random.choice(API_KEYS))
 MODEL    = "gemini-2.5-flash"
 TXT_FILE = "chatbot.txt"
 # ──────────────────────────────────────────────────────
