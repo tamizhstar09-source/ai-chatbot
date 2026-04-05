@@ -3,9 +3,10 @@ import google.generativeai as genai
 import os
 
 # ── CONFIG ─────────────────────────────────────────────
-genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])  # 🔑 Replace with your key
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 MODEL    = "gemini-2.5-flash"
-TXT_FILE = "chatbot.txt"   # 📄 Place chatbot.txt in the SAME folder as this file
+TXT_FILE = "chatbot.txt"
+# ──────────────────────────────────────────────────────
 # ──────────────────────────────────────────────────────
 
 genai.configure(api_key=API_KEY)
