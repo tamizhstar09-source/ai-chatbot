@@ -7,9 +7,6 @@ genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 MODEL    = "gemini-2.5-flash"
 TXT_FILE = "chatbot.txt"
 # ──────────────────────────────────────────────────────
-# ──────────────────────────────────────────────────────
-
-genai.configure(api_key=API_KEY)
 
 st.set_page_config(page_title="PT LEE CNCET Chatbot", page_icon="🤖", layout="centered")
 
