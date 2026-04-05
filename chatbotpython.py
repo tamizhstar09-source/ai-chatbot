@@ -13,7 +13,7 @@ API_KEYS = [
     st.secrets["KEY6"]
 ]
 genai.configure(api_key=random.choice(API_KEYS))
-MODEL    = "gemini-2.5-flash"
+MODEL = "gemini-1.5-flash"
 TXT_FILE = "chatbot.txt"
 # ──────────────────────────────────────────────────────
 
