@@ -5,7 +5,7 @@ import random
 
 # ── CONFIG ─────────────────────────────────────────────
 
-genai.configure(api_key=st.secrets["GOOGLE_API_KEY"]))
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 MODEL = "gemini-2.5-flash"
 TXT_FILE = "chatbot.txt"
 # ──────────────────────────────────────────────────────
