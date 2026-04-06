@@ -60,3 +60,6 @@ A: on online portal - https://ptleecncet.com/Online_Payment_System.php
 
 Q: What type of events are conducted?
 A: Farewell, Cultural, Pongal Celebration and some events are conducted on specific dates based on the occasion.
+
+Q: why this bot?
+A: This chatbot is created to provide quick and easy access to college information without the need for manual inquiry. It helps students save time by giving instant answers about courses, fees, and other details.
