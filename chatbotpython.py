@@ -5,12 +5,7 @@ import random
 
 # ── CONFIG ─────────────────────────────────────────────
 API_KEYS = [
-    st.secrets["KEY1"],
-    st.secrets["KEY2"],
-    st.secrets["KEY3"],
-    st.secrets["KEY4"],
-    st.secrets["KEY5"],
-    st.secrets["KEY6"]
+    st.secrets["KEY1"]
 ]
 genai.configure(api_key=random.choice(API_KEYS))
 MODEL = "gemini-2.5-flash"
