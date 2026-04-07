@@ -41,7 +41,7 @@ Q: What is the boys hostel capacity?
 A: 300 students.
 
 Q: What is the girls hostel capacity?
-A: 150 students.
+A: 250 students.
 
 Q: What are the library facilities?
 A: Seating capacity is 150, number of books is 14318, and 38 journals are subscribed.
@@ -84,5 +84,26 @@ A: Tamizharasu is the founder of this chatbot, a smart and creative mind who bui
 
 Q: Does the college have a canteen?
 A: Yes,the canteen mainly provides snacks and light refreshments for students.
+
+Q: Does the college provide medical facilities?
+A: Yes, medical assistance is available to handle emergencies and support student health..The medical facility is excellent and ensures proper care and support for students.
+
+Q: What are the college bus routes/Does the college provide transportation?
+A: Yes, the college provides transportation facilities through multiple bus routes covering different areas for students and staff.
+   Bus No. 1 – Walajabad
+Bus No. 2 – Vandavasi
+Bus No. 3 – Vadamanapakkam
+Bus No. 4 – Kaveripakkam
+Bus No. 5 – Sunguvarchatram
+Bus No. 6 – Tiruttani
+Bus No. 7 – Cheyyar
+Bus No. 8 – Valavanur (Brahmadesam)
+Bus No. 9 – Sholingur
+Bus No. 10 – R.K. Pet
+Bus No. 11 – Arcot
+
+Q: Is there a place in the college to relax or sit peacefully?
+A: Yes, the college has a calm and peaceful sitting area located at the center of the campus where students can relax and spend time quietly.
+
 
 
