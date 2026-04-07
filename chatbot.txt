@@ -63,3 +63,26 @@ A: Farewell, Cultural, Pongal Celebration and some events are conducted on speci
 
 Q: why this bot?
 A: This chatbot is created to provide quick and easy access to college information without the need for manual inquiry. It helps students save time by giving instant answers about courses, fees, and other details.
+
+Q: Is there any special offer based on cutoff?
+A: Yes, the college provides fee concessions based on students' cutoff marks.
+   175 and above – 100% fee concession (full free)
+   160 to 174 – 50% fee concession
+   150 to 159 – 25% fee concession
+
+Q: Who is the Director of the college?
+A: The Director is Prof. Dr. M. ARULARASU, M.E., Ph.D., Former Additional Director, DOTE, Chennai.
+
+Q: Who is the Principal of the college?
+A: The Principal is Dr. P. PALANISAMY, M.E., Ph.D.
+
+Q: Who is the Chief Patron of the college/chairman?
+A: The Chief Patron is Thiru. Justice P. KALAIVARASAN, Former Judge of the High Court of Madras and Chairman of PT Lee CN Trust, Chennai.
+
+Q: Who is Tamizharasu?
+A: Tamizharasu is the founder of this chatbot, a smart and creative mind who built this system to help students easily —Tamil anna sooooooooooo 🔥
+
+Q: Does the college have a canteen?
+A: Yes,the canteen mainly provides snacks and light refreshments for students.
+
+
