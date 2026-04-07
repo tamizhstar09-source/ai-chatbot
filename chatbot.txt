@@ -66,8 +66,11 @@ A: This chatbot is created to provide quick and easy access to college informati
 
 Q: Is there any special offer based on cutoff?
 A: Yes, the college provides fee concessions based on students' cutoff marks.
+
    175 and above – 100% fee concession (full free)
+
    160 to 174 – 50% fee concession
+
    150 to 159 – 25% fee concession
 
 Q: Who is the Director of the college?
